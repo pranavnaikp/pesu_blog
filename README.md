@@ -1,9 +1,9 @@
-# MERN Stack Blog App
+## MERN Stack Blog App
 
 This is a MERN (MongoDB, Express.js, React.js, Node.js) stack blog application.
 
 
-#Installation
+## Installation
 run "npm i -y" in base and /client folder
 
 
